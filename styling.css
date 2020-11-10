@@ -1,0 +1,39 @@
+.asideContentTitle
+{
+  text-align: center;
+
+}
+header {
+
+   color: blue;
+   padding-left: 15px;
+}
+
+
+h4{
+  color: blue;
+}
+
+nav{
+
+  border-style: solid;
+  border-width:  thick thin thin ;
+  border-color: blue;
+  color: white;
+}
+
+
+.tableContent{
+  border-style: solid;
+  border-width:  thin ;
+  border-color: blue;
+}
+
+th{
+  color: blue;
+  padding-left: 5px;
+}
+
+body{
+
+}
