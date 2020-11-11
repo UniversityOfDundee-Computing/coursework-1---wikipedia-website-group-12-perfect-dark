@@ -1,0 +1,99 @@
+/**
+styling for Header
+color is been set to blue
+15px padding added
+*/
+header{
+  color: blue;
+   padding-left: 15px;
+}
+
+/**
+heading 4
+colour set to blue
+*/
+
+h4{
+  color: blue;
+}
+
+/**
+navigation bar
+font size is set to 150%
+border line is made solid
+border colour set to black
+*/
+nav{
+    font-size: 150%;
+  border-style: solid;
+  border-width:  thick thin thin ;
+  border-color: black;
+
+}
+
+/**
+boday, conten and table
+backgroud colour set to light blue
+order line is made solid with thin lines
+border colour set to black
+*/
+body, .contentLinks, .tableContent {
+background-color: #cce0ff;
+border-style: solid;
+border-width:  thin thin thin ;
+border-color: black;
+
+}
+
+/**
+container
+backgroud set to a litle dark blue than page back
+*/
+.container{
+  background-color: #b3d1ff;
+
+}
+
+/**
+right side table title
+set to left
+*/
+.asideContentTitle
+{
+  text-align: left;
+
+}
+
+/**
+table heading
+set to blue
+5px padding on the lift side
+*/
+th{
+  color: blue;
+  padding-left: 5px;
+}
+/**
+table data
+
+5px padding on the lift side
+*/
+td{
+  padding-left: 5px;
+}
+/**
+top left iamge on home page radius set to 50%
+*/
+.titleImg {
+  border-radius: 50%;
+}
+/**
+right table image on home page
+margin set to auto
+*/
+
+.tableImg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
