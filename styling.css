@@ -11,10 +11,25 @@ header{
 /**
 heading 4
 colour set to blue
+poadding added
 */
 
 h4{
+
+   padding-top: 5px;
+   padding-bottom: 5px;
+
   color: blue;
+}
+h5{
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+p, {
+  padding-left:  5px;
+  padding-right: 5px;
+   padding-bottom: 25px;
 }
 
 /**
@@ -62,6 +77,10 @@ set to left
 {
   text-align: left;
 
+}
+.copyrightMessage{
+
+  float: left;
 }
 
 /**
