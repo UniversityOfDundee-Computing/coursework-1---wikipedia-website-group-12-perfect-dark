@@ -26,10 +26,16 @@ h5{
   padding-top: 5px;
   padding-bottom: 5px;
 }
-p, {
+p, td{
   padding-left:  5px;
   padding-right: 5px;
-   padding-bottom: 25px;
+   padding-bottom: 5px;
+   padding-top: 2px;
+   color: black;
+}
+
+.contactImg{
+  float: right;
 }
 
 /**
@@ -66,6 +72,7 @@ backgroud set to a litle dark blue than page back
 */
 .container{
   background-color: #b3d1ff;
+  padding-bottom: 2px;
 
 }
 
